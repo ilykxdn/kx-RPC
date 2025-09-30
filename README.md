@@ -1,4 +1,4 @@
-# kx-RPC by | xokxdn | .gg/w8w4dsKKG8
+# kx-RPC by xokxdn | (https://ilykxdn.github.io/devp)
 
 
 
