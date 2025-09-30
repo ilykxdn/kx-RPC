@@ -20,7 +20,7 @@ Up to 2 interactive buttons with links (e.g., Discord, website, or connect link)
 
 1. Create a resource directory named [KX] inside your server!
 
-2. Download and place kx-RPC (or any other KX script into the [KX] Directory)
+2. Download and place kx-RPC-main or any other KX script into the [KX] Directory then rename it to kx-RPC
 
 3. Head to your server.cfg and start the directory UNDER your standalone folder.  
 EX;  ensure [KX]  or  start [KX]
